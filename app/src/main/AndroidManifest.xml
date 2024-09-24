@@ -34,7 +34,7 @@
             android:name=".BT3"
             android:exported="false" />
         <activity
-            android:name=".BT6Edit_View_Buttom"
+            android:name=".BT11"
             android:exported="false" />
         <activity
             android:name=".BT2Dialog"
@@ -46,7 +46,7 @@
             android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".BT11"
+            android:name=".BT6Edit_View_Buttom"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
