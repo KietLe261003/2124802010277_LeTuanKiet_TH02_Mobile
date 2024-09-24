@@ -1,0 +1,41 @@
+<resources>
+    <string-array name="names_array">
+        <item>Tèo</item>
+        <item>Tý</item>
+        <item>Bin</item>
+        <item>Bo</item>
+    </string-array>
+    <string-array name="local_array">
+        <item>Hà Nội</item>
+        <item>Huế</item>
+        <item>Spa</item>
+        <item>Côn sơn</item>
+        <item>Vũng Tàu</item>
+        <item>Đà nẵng</item>
+    </string-array>
+    <string-array name="products_array">
+        <item>Điện Thoại</item>
+        <item>Máy Tính</item>
+        <item>Đồng Hồ</item>
+    </string-array>
+    <string-array name="moblie">
+        <item>Điện thoại</item>
+        <item>Điện thoại</item>
+        <item>Điện thoại</item>
+        <item>Điện thoại</item>
+        <item>Điện thoại</item>
+    </string-array>
+    <string-array name="watch">
+        <item>Đồng hồ</item>
+        <item>Đồng hồ</item>
+        <item>Đồng hồ</item>
+        <item>Đồng hồ</item>
+    </string-array>
+    <string-array name="laptop">
+        <item>Laptop</item>
+        <item>Laptop</item>
+        <item>Laptop</item>
+        <item>Laptop</item>
+    </string-array>
+    <string name="product_prompt">Chọn sản phẩm</string>
+</resources>

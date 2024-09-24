@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">EditText</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="txtusername" translatable="false">Tài khoản</string>
+    <string name="txtpassword" translatable="false">Mật khẩu</string>
+    <string name="txtemail" translatable="false">Email</string>
+    <string name="txtbirthday" translatable="false">Ngày sinh</string>
+    <string name="btnreg" translatable="false">Đăng ký</string>
+</resources>
