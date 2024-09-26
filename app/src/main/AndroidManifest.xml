@@ -43,10 +43,10 @@
             android:name=".BT1Toast"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".BT6Edit_View_Buttom"
             android:exported="false" />
         <activity
-            android:name=".BT6Edit_View_Buttom"
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
